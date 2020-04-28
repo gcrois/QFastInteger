@@ -1,0 +1,3 @@
+[submodule "QFastIntegerPaper"]
+	path = QFastIntegerPaper
+	url = git@github.com:gcrois/QFastIntegerPaper.git
